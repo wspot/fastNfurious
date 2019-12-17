@@ -1,0 +1,16 @@
+{
+  "name": "backoffice",
+  "version": "1.0.0",
+  "description": "nodejs api for e-commerce applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "e-commerce",
+    "nodejs",
+    "fastNfurious"
+  ],
+  "author": "ismail ben salah",
+  "license": "ISC"
+}
